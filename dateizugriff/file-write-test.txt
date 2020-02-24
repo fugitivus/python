@@ -1,0 +1,14 @@
+Vorname;Nachname;Geburtsdatum;Geschlecht
+John;Smith;17.09.1980;Männlich
+Jane;Doe;19.01.1983;Weiblich
+Nathan;Blacksmith;03.05.2000;Männlich
+John;Smith;17.09.1980;Männlich
+Jane;Doe;19.01.1983;Weiblich
+Nathan;Blacksmith;03.05.2000;Männlich
+Vorname;Nachname;Geburtsdatum;Geschlecht
+John;Smith;17.09.1980;Männlich
+Jane;Doe;19.01.1983;Weiblich
+Nathan;Blacksmith;03.05.2000;Männlich
+John;Smith;17.09.1980;Männlich
+Jane;Doe;19.01.1983;Weiblich
+Nathan;Blacksmith;03.05.2000;Männlich
